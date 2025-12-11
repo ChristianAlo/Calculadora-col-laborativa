@@ -1,21 +1,28 @@
+# Calculadora col·laborativa
 Este projecte és una calculadora col·laborativa creada per un grup de 6 parelles. Cada parella implementarà una funcionalitat diferent en Python i la integrarà en el repositori mitjançant GitHub. 
  
 
-#Estructura del projecte 
+### Estructura del projecte 
 
-calculadora/ 
-│ 
+calculadora/
+
 ├── main.py                # Programa principal 
+
 ├── suma_resta.py          # Parella 1: suma i resta 
+
 ├── mult_div.py            # Parella 2: multiplicació i divisió 
+
 ├── pot_arrel.py           # Parella 3: potència i arrel quadrada 
+
 ├── percentatges.py        # Parella 4: percentatges 
+
 ├── conversio.py           # Parella 5: conversió Celsius ↔ Fahrenheit 
+
 └── arredonir.py           # Parella 6: arredonir un número decimal donat 
 
 
 
-#Tasques per a cada parella 
+### Tasques per a cada parella 
 
 Parella 1: Implementar funcions suma(a,b) i resta(a,b) en suma_resta.py. 
 
@@ -29,7 +36,7 @@ Parella 5: Implementar celsius_a_fahrenheit(c) i fahrenheit_a_celsius(f) en conv
 
 Parella 6: Implementar arredonir (a) en arredonir.py. 
 
-#Passos per contribuir 
+### Passos per contribuir 
 
 1. Fes un fork del repositori principal al teu compte de GitHub 
 2. Clona el teu fork al teu ordinador
